@@ -76,7 +76,7 @@ if __name__ == '__main__':
 ## 📊 Profile stat
 <br />
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=ez7mz&theme=tokyonight" />
+    <img src="https://streak-stats.demolab.com/?user=oo7mza&theme=tokyonight" />
 </div>
 <p>
     <img alt="footer" src="./static/footer.svg">
